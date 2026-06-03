@@ -117,10 +117,10 @@ This philosophy guides my approach to both software development and game designâ
 
 I'm always interested in collaborating on innovative projects, discussing software architecture, or exploring game development ideas. Feel free to reach out:
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/sam-tapar)
+- **Email:** [stapar2005@gmail.com](mailto:your.email@example.com)
+- **LinkedIn:** [LinkedIn](www.linkedin.com/in/sam-tapar)
 - **GitHub:** [@stapar2005-ui](https://github.com/stapar2005-ui)
-- **Portfolio:** [Your Portfolio](https://sites.google.com/view/staparportfolio/protfolio?authuser=0)
+- **Portfolio:** [Portfolio](https://sites.google.com/view/staparportfolio/protfolio?authuser=0)
 
 ---
 
