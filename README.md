@@ -89,19 +89,6 @@ My long-term vision is to establish **GALAXY GAMES**, a game development company
 - ✅ Develop the first prototype under GALAXY GAMES
 - ✅ Contribute to open-source projects and community
 
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stapar2005-ui&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stapar2005-ui&theme=tokyonight&hide_border=true&layout=compact)
-  
-</div>
-
----
 
 ## 💡 Philosophy & Vision
 
